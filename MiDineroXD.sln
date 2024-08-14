@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiDineroXD", "MiDineroXD\MiDineroXD.csproj", "{7BC5F2CA-9579-4A69-BFDE-10E9B02EBAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BC5F2CA-9579-4A69-BFDE-10E9B02EBAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC5F2CA-9579-4A69-BFDE-10E9B02EBAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC5F2CA-9579-4A69-BFDE-10E9B02EBAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC5F2CA-9579-4A69-BFDE-10E9B02EBAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6313C6C6-CE98-4A3B-8A12-44C589DBBE1E}
+	EndGlobalSection
+EndGlobal
